@@ -1,0 +1,5 @@
+{
+  "name": "PPT Voiceover Generator",
+  "description": "Generates voiceovers for each 'slide' of text input, allowing playback and download.",
+  "requestFramePermissions": []
+}
